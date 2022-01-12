@@ -8,3 +8,5 @@ function countdown(){
 }
 
 countdown()
+
+setInterval(countdown, 1000)
